@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on a 2D Java Game.<br>🌱 I’m currently studying Computer Science at Southwestern University.<br>⚡ Fun fact I am a part time music producer.
+#  About Me:
+🔭 I’m currently working on a 2D Java Game.<br> I’m currently studying Computer Science at Southwestern University.<br>⚡ Fun fact I am a part time music producer.
 
 
 ## 🌐 Socials:
