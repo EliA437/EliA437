@@ -2,7 +2,7 @@
 Hi! I’m Eli, a Computer Science student at Southwestern University. I’m exploring full-stack web development.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli-l-allen/) [![Website](https://img.shields.io/badge/Website-%2312100E.svg?logo=firefox&logoColor=white)](https://eliallen.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli-l-allen/) [![Website](https://img.shields.io/badge/Website-%2312100E.svg?logo=firefox&logoColor=white)]([https://eliallen.netlify.app/](https://eliallenportfolio.netlify.app/))
 
 
 # 💻 Tech Stack:
